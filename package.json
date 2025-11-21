@@ -16,6 +16,6 @@
     "chalk": "^5.6.2"
   },
   "scripts": {
-    "build": "bun build --compile --outfile kindlefy ./index.ts"
+    "build": "bun build --compile --outfile dist/kindlefy ./index.ts"
   }
 }
